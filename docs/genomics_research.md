@@ -11,13 +11,15 @@
 - COAD (Colon adenocarcinoma): 결장선암
 - DLBC (Lymphoid Neoplasm Diffuse Large B-cell Lymphoma): 미만성 거대 B세포 림프종
 - ESCA (Esophageal carcinoma): 식도암
-- GBM (Glioblastoma multiforme): 교모세포종
+- GBMLGG (GBM + LGG): 신경 교종 데이터셋
+  - GBM (Glioblastoma multiforme): 교모세포종
+  - LGG (Brain Lower Grade Glioma): 저등급 신경교종
 - HNSC (Head and Neck squamous cell carcinoma): 두경부 편평세포암
-- KICH (Kidney Chromophobe): 신장 혐색소성 암
-- KIRC (Kidney renal clear cell carcinoma): 신장 투명세포암
-- KIRP (Kidney renal papillary cell carcinoma): 신장 유두상 세포암
+- KIPAN (Pan-kidney cohort): 범 신장 코호트
+  - KICH (Kidney Chromophobe): 신장 혐색소성 암
+  - KIRC (Kidney renal clear cell carcinoma): 신장 투명세포암
+  - KIRP (Kidney renal papillary cell carcinoma): 신장 유두상 세포암
 - LAML (Acute Myeloid Leukemia): 급성 골수성 백혈병
-- LGG (Brain Lower Grade Glioma): 저등급 신경교종
 - LIHC (Liver hepatocellular carcinoma): 간세포암
 - LUAD (Lung adenocarcinoma): 폐선암
 - LUSC (Lung squamous cell carcinoma): 폐편평세포암
@@ -43,8 +45,6 @@
 - LCML (Chronic Myelogenous Leukemia): 만성 골수성 백혈병
 - MISC (Miscellaneous): 기타 항목
 
-
-# 프로젝트 적용
 
 
 # 참고 자료
